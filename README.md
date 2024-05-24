@@ -1,6 +1,7 @@
-# 👋 Hi, I’m @motiontucks
-- 💻 I use Visual Studio Code
-- 🥖 I live in Belgium around Flanders
+## Hi 👋, I'm Motion
 
-# 🚩 Projects:
+- 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
+- 🥖 I live in Belgium in Flanders
+
+## 🚩 Projects:
 - /
